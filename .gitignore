@@ -1,3 +1,6 @@
 *.o
 makefile
 catbtor
+
+# root build dir
+build
